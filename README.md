@@ -1,6 +1,8 @@
 # 🚀 Open-WebUI-Chatbot
 A chatbot powered by the OPEN_WEBUI API.
 
+**You can view and interact with the deployed application live here: <https://webui.webuimyapi.win/> ✨**
+
 # 🛠️ Setup and Installation
 Follow these steps to get your project up and running locally.
 

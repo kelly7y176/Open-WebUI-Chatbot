@@ -1,5 +1,5 @@
-# 🚀 Project Name
-A brief, one-sentence description of what your project is (e.g., "A Streamlit-based chatbot powered by the OPEN_WEBUI API.").
+# 🚀 Open-WebUI-Chatbot
+A chatbot powered by the OPEN_WEBUI API.
 
 # 🛠️ Setup and Installation
 Follow these steps to get your project up and running locally.

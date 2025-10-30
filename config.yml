@@ -1,8 +1,0 @@
-# config.yml 
-tunnel: 7b0c375c-2157-4dba-8b79-a394ca7e8b5a 
-credentials-file: /Users/fulam/.cloudflared/7b0c375c-2157-4dba-8b79-a394ca7e8b5a.json 
-
-ingress:
-  - hostname: webui-api.mydomain.com 
-    service: http://localhost:3000
-  - service: http_status:404 

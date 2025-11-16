@@ -3,6 +3,12 @@ A chatbot powered by the OPEN_WEBUI API.
 
 **You can view and interact with the deployed application live here: <https://webui.webuimyapi.win/> ✨**
 
+<!-- Cover -->
+<br />
+<div>
+   <img align="left" align="left" alt="HTML" width="100%" style="padding-right:10px;" src="https://i.imgur.com/UXVDUPe.jpeg" />   
+</div>
+
 # 🛠️ Setup and Installation
 Follow these steps to get your project up and running locally.
 
